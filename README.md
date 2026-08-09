@@ -4,7 +4,7 @@
 Backend/Devops Developer | FastAPI | Docker | PostgreSQL | Redis
 
 
-### 🛠️ Tech Skills
+### 🛠️ Full Tech Skills
 
 <table>
   <tr>
