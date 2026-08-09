@@ -48,17 +48,7 @@ Backend/Devops Developer | FastAPI | Docker | PostgreSQL | Redis
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
     </td>
   </tr>
-
-  <tr>
-    <td><b>Generative AI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-      <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
-      <img src="https://img.shields.io/badge/LLM_Integration-6E56CF?style=flat-square&logo=ai&logoColor=white" alt="LLM Integration" />
-    </td>
-  </tr>
-
+  
   <tr>
     <td><b>DevOps & Infrastructure</b></td>
     <td>
