@@ -1,5 +1,5 @@
 
-<img src="./backend.svg" width="600" />
+<img src="./backend_ai.svg" width="600" />
 
 Backend/Devops Developer | FastAPI | Docker | PostgreSQL | Redis
 
