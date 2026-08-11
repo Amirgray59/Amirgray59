@@ -1,7 +1,7 @@
 
 <img src="./backend_aii.svg" width="600" />
 
-Backend/Devops Developer | FastAPI | Docker | PostgreSQL | Redis
+Backend/AI Developer | FastAPI | Docker | Pytorch | PostgreSQL | Redis
 
 
 ### 🛠️ Full Tech Skills
