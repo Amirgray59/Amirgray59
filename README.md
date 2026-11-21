@@ -1,7 +1,7 @@
 
 <img src="./backend_aii.svg" width="600" />
 
-Backend/AI Developer | FastAPI | Docker | Pytorch | PostgreSQL | Redis
+AI/Backend Developer | Pytorch | FastAPI | Docker  | PostgreSQL | Redis
 
 
 ### 🛠️ Full Tech Skills
@@ -25,18 +25,6 @@ Backend/AI Developer | FastAPI | Docker | Pytorch | PostgreSQL | Redis
       <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
     </td>
   </tr>
-
-  <tr>
-    <td><b>Databases & Cache</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-      <img src="https://img.shields.io/badge/Alembic-1F4E79?style=flat-square&logo=alembic&logoColor=white" alt="Alembic" />
-    </td>
-  </tr>
-
   <tr>
     <td><b>AI & Machine Learning</b></td>
     <td>
@@ -46,6 +34,17 @@ Backend/AI Developer | FastAPI | Docker | Pytorch | PostgreSQL | Redis
       <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Databases & Cache</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+      <img src="https://img.shields.io/badge/Alembic-1F4E79?style=flat-square&logo=alembic&logoColor=white" alt="Alembic" />
     </td>
   </tr>
   
